@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://arthurboari.github.io/website/
 publishDIR: docs
 languageCode: en-us
 title: A Hugo website
