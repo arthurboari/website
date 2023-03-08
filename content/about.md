@@ -3,7 +3,7 @@ title: "Sobre"
 date: "2016-05-05T21:48:51-07:00"
 ---
 
-<img src="/./about_files/Untitled design (2).png" alt="Fotos XXXX" width="80%"/>
+<img src="/./about_files/Untitled.png" alt="Fotos XXXX" width="80%"/>
 
 # Overview
 <div style="text-align: justify">
