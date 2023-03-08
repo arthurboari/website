@@ -1,9 +1,0 @@
----
-title: nobo post
-author: wetge
-date: '2023-03-07'
-slug: nobo-post
-categories: []
-tags: []
----
- ralaxura xerebebe
