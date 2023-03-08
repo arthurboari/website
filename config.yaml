@@ -34,7 +34,7 @@ params:
   highlightjsVersion: 9.12.0
   logo:
     height: 50
-    url: static\images\logo.png
+    url: ~/GitHub/website/static/images/logo.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
